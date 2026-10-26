@@ -4,27 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "1d325c26f2e3f25c",
+        "id": "d3409c1c6551a84a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe745443f2e28a8a",
+            "id": "776ee87752970bfc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 22,
-                  "y": -87,
-                  "zoom": 0
-                }
+                "file": "Teoria dos Fundamentos Morais.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "Teoria dos Fundamentos Morais"
+            }
+          },
+          {
+            "id": "bbd0edde5a9f0971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livro - A Mente Moralista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livro - A Mente Moralista"
+            }
+          },
+          {
+            "id": "74083a46fcc875ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livro - A Mente Moralista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Livro - A Mente Moralista"
+            }
+          },
+          {
+            "id": "ae41d346a88494d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard Diário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard Diário"
+            }
+          },
+          {
+            "id": "3d7b5d221084d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard Diário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard Diário"
+            }
+          },
+          {
+            "id": "f7895848aedae389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fale com o Elefante Primeiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fale com o Elefante Primeiro"
+            }
+          },
+          {
+            "id": "cbbfd69ffdf797fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ligue o Interruptor da Colmeia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ligue o Interruptor da Colmeia"
+            }
+          },
+          {
+            "id": "d58c9471b6896367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é o Sabor da Matriz Moral do Outro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qual é o Sabor da Matriz Moral do Outro"
+            }
+          },
+          {
+            "id": "93264eb4db7a776e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard Diário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard Diário"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -172,13 +282,23 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "90136c684b2f2d5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,19 +308,42 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe745443f2e28a8a",
+  "active": "93264eb4db7a776e",
   "lastOpenFiles": [
-    "2026-09-16.md",
-    "Sem título.canvas",
-    "01 - Livros e Leituras (Resumos individuais de cada obra)/A Mente Moralista.md",
-    "03 - Templates (Modelos reutilizáveis de anotação)/Template - Livro.md",
+    "O Efeito do Enquadramento (Framing).md",
+    "Qual é o Sabor da Matriz Moral do Outro.md",
+    "Ligue o Interruptor da Colmeia.md",
+    "Fale com o Elefante Primeiro.md",
+    "Dashboard Diário.md",
+    "Auditoria do Cavaleiro (Autocrítica).md",
+    "Livro - A Mente Moralista.md",
+    "Richard Dawkins.md",
+    "Émile Durkheim.md",
+    "Platão.md",
+    "David Hume.md",
+    "Rápido e Devagar.md",
+    "Jonathan Haidt.md",
+    "Estratégias de Engajamento para Aulas de Python.md",
+    "Comunicação Não-Violenta e Resolução de Conflitos.md",
+    "Comunicação e Resolução de Conflitos.md",
+    "Daniel Kahneman.md",
+    "Homo Duplex e o Interruptor da Colmeia.md",
+    "A Mente Moralista.md",
+    "Teoria dos Fundamentos Morais.md",
+    "O Elefante e o Condutor.md",
     "Bem-vindo.md",
+    "Nome de Outro Conceito.md",
+    "Sistema 1 e Sistema 2.md",
+    "README.md",
+    "A Mente Moralista - Por que pessoas boas são segregadas por política e religião.md",
+    "A Mente Moralista - Por que pessoas são segregadas por política e religião.canvas",
+    "Sem título",
     "03 - Templates (Modelos reutilizáveis de anotação)",
     "02 - Conceitos e Notas Atômicas (Ideias centrais que se repetem em vários livros)",
-    "Sem título/Sem título.md",
     "01 - Livros e Leituras (Resumos individuais de cada obra)"
   ]
 }

@@ -1,0 +1,13 @@
+Émile Durkheim (1858–1917) foi um sociólogo, psicólogo social e filósofo francês, amplamente reconhecido como um dos pais fundadores da sociologia moderna, ao lado de Karl Marx e Max Weber.
+
+No contexto das teorias de Jonathan Haidt que estamos a explorar, Durkheim é a peça-chave para a Parte III de _A Mente Moralista_. Foi ele quem concebeu a ideia do **Homo duplex**, argumentando que os seres humanos existem em dois níveis: o nível individual (o "profano", focado nas necessidades diárias e nos interesses próprios) e o nível social (o "sagrado", onde transcendemos o ego e nos fundimos com o coletivo). Haidt baseia-se diretamente no conceito durkheimiano de "efervescência coletiva" para explicar o nosso "interruptor da colmeia" (hive switch).
+
+A sua bibliografia principal e mais influente inclui:
+
+- **As Formas Elementares da Vida Religiosa** (_Les Formes élémentaires de la vie religieuse_, 1912) - A obra mais importante para as suas anotações atuais. Durkheim analisa a religião não como um fenómeno puramente teológico ou irracional, mas como a base da coesão social. É aqui que ele divide o mundo entre o "sagrado" e o "profano" e descreve a "efervescência coletiva" — a energia transcendente que as pessoas sentem em rituais de grupo (como coros, marchas ou cerimónias), que alinha os indivíduos numa única mente coletiva.
+    
+- **Da Divisão do Trabalho Social** (_De la division du travail social_, 1893) - A sua tese de doutoramento, que explora como a sociedade se mantém unida. Ele introduz os conceitos de "solidariedade mecânica" (sociedades tradicionais unidas por crenças e costumes partilhados) e "solidariedade orgânica" (sociedades complexas unidas pela interdependência de profissões).
+    
+- **As Regras do Método Sociológico** (_Les Règles de la méthode sociologique_, 1895) - O manifesto onde Durkheim estabelece a sociologia como uma ciência independente e rigorosa. Ele introduz o conceito de "facto social" — formas de agir, pensar e sentir exteriores ao indivíduo, que exercem um poder de coerção sobre ele (como a linguagem, as leis ou a moralidade).
+    
+- **O Suicídio** (_Le Suicide_, 1897) - Um estudo empírico pioneiro. Durkheim utilizou dados estatísticos para demonstrar como um ato aparentemente tão íntimo e psicológico é, na verdade, ditado por correntes sociais. Ele identificou que taxas de suicídio disparam devido a desequilíbrios na integração social e à "anomia" (a ausência ou desintegração de normas morais claras na sociedade).
