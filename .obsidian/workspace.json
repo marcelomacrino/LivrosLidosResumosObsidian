@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Dashboard Diário"
             }
+          },
+          {
+            "id": "090ecc8c3f2e457e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema 1 e 2 de Kahneman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema 1 e 2 de Kahneman"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -312,19 +326,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93264eb4db7a776e",
+  "active": "090ecc8c3f2e457e",
   "lastOpenFiles": [
+    "O Elefante e o Condutor.md",
+    "Sistema 1 e 2 de Kahneman.md",
+    "Livro - A Mente Moralista.md",
+    "Ligue o Interruptor da Colmeia.md",
+    "David Hume.md",
+    "Dashboard Diário.md",
+    "Fale com o Elefante Primeiro.md",
     "O Efeito do Enquadramento (Framing).md",
     "Qual é o Sabor da Matriz Moral do Outro.md",
-    "Ligue o Interruptor da Colmeia.md",
-    "Fale com o Elefante Primeiro.md",
-    "Dashboard Diário.md",
     "Auditoria do Cavaleiro (Autocrítica).md",
-    "Livro - A Mente Moralista.md",
     "Richard Dawkins.md",
     "Émile Durkheim.md",
     "Platão.md",
-    "David Hume.md",
     "Rápido e Devagar.md",
     "Jonathan Haidt.md",
     "Estratégias de Engajamento para Aulas de Python.md",
@@ -334,12 +350,10 @@
     "Homo Duplex e o Interruptor da Colmeia.md",
     "A Mente Moralista.md",
     "Teoria dos Fundamentos Morais.md",
-    "O Elefante e o Condutor.md",
     "Bem-vindo.md",
     "Nome de Outro Conceito.md",
     "Sistema 1 e Sistema 2.md",
     "README.md",
-    "A Mente Moralista - Por que pessoas boas são segregadas por política e religião.md",
     "A Mente Moralista - Por que pessoas são segregadas por política e religião.canvas",
     "Sem título",
     "03 - Templates (Modelos reutilizáveis de anotação)",
